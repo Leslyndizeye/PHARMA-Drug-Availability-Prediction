@@ -1,11 +1,11 @@
 # nearbyPHARMA: Drug Availability Prediction System
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Leslyndizeye/PHARMA-Drug-Availability-Prediction.git)
-[![Video Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)]([YOUR_YOUTUBE_VIDEO_LINK_HERE](https://youtu.be/wpsFoonjGvM))
+[![Video Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)]([YOUR_YOUTUBE_VIDEO_LINK_HERE]([https://youtu.be/wpsFoonjGvM](https://www.youtube.com/watch?v=wpsFoonjGvM&ab_channel=LeslyNdizeye)))
 [![Python](https://img.shields.io/badge/Python-3.8+-green?logo=python)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange?logo=tensorflow)](https://tensorflow.org)
 
-### link of video :https://youtu.be/wpsFoonjGvM
+### link of video :[https://youtu.be/wpsFoonjGvM](https://www.youtube.com/watch?v=wpsFoonjGvM&ab_channel=LeslyNdizeye)
 
 ##  Problem Statement
 This project aims to predict drug availability in pharmacies based on sales patterns and temporal features to optimize inventory management and ensure consistent drug supply for patients. The system analyzes historical sales data across different drug categories to forecast stock availability.

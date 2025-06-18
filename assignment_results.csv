@@ -1,0 +1,6 @@
+Training Instance,Optimizer Used,Regularizer Used,Epochs,Early Stopping,Number of Layers,Learning Rate,Accuracy,F1 Score,Recall,Precision
+Instance 1,Adam (default),None,40,No,4,0.001,0.8080,0.8796,0.9131,0.8485
+Instance 2,Adam,L2 (0.01),40,No,4,0.001,0.8107,0.8837,0.9362,0.8367
+Instance 3,RMSprop,L1 (0.01),40,No,4,0.002,0.7680,0.8687,1.0000,0.7680
+Instance 4,SGD,L1+L2 (0.005),40,No,4,0.01,0.7680,0.8687,1.0000,0.7680
+Instance 5,N/A,Tree Constraints,N/A,N/A,Ensemble,N/A,0.8068,0.8817,0.9374,0.8322

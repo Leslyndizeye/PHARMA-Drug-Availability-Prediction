@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-green?logo=python)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange?logo=tensorflow)](https://tensorflow.org)
 
-###link of video :https://youtu.be/wpsFoonjGvM
+### link of video :https://youtu.be/wpsFoonjGvM
 
 ##  Problem Statement
 This project aims to predict drug availability in pharmacies based on sales patterns and temporal features to optimize inventory management and ensure consistent drug supply for patients. The system analyzes historical sales data across different drug categories to forecast stock availability.

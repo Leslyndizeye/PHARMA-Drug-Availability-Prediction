@@ -1,7 +1,7 @@
 # nearbyPHARMA: Drug Availability Prediction System
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Leslyndizeye/PHARMA-Drug-Availability-Prediction.git)
-[![Video Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)]([YOUR_YOUTUBE_VIDEO_LINK_HERE]([https://youtu.be/wpsFoonjGvM](https://www.youtube.com/watch?v=wpsFoonjGvM&ab_channel=LeslyNdizeye)))
+[![Video Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)]([YOUR_YOUTUBE_VIDEO_LINK_HERE]([[https://youtu.be/wpsFoonjGvM](https://www.youtube.com/watch?v=wpsFoonjGvM)]([https://www.youtube.com/watch?v=wpsFoonjGvM&ab_channel=LeslyNdizeye](https://www.youtube.com/watch?v=wpsFoonjGvM))))
 [![Python](https://img.shields.io/badge/Python-3.8+-green?logo=python)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange?logo=tensorflow)](https://tensorflow.org)
 
